@@ -1,0 +1,7 @@
+Bangladesh's under-5 mortality fell at an average 4.5% per year (2000-2024; 95% CI 4.0 to 5.0).
+The rate of decline was 5.6% per year before 2012 and 3.4% per year after (test for slope change p = 3.59e-07).
+Neonatal deaths rose from 50.8% to 58.7% of all under-5 deaths (2000-2024); neonatal mortality declined at 3.9% per year versus 4.5% for under-5.
+SDG 3.2 (under-5 ≤ 25): projected 2030 value 24.9 (24.0-25.8); current ARR 3.4% vs required 3.3% -> Uncertain.
+SDG 3.2 (neonatal ≤ 12): projected 2030 value 14.3 (13.8-14.8); current ARR 3.7% vs required 6.7% -> Off track.
+Across 8 South Asian countries (200 country-years), a 10-point rise in measles coverage was associated with a 7.6% change in under-5 mortality (95% CI -4.9% to 21.7%, p = 0.205) after country fixed effects.
+In leave-one-country-out validation, the random forest predicted better (log-RMSE 0.550 vs 0.627).

@@ -1,0 +1,72 @@
+{
+  "latest_year": 2024,
+  "n_imputed": 0,
+  "neonatal_share_start": 50.8,
+  "neonatal_share_latest": 58.7,
+  "neonatal_share_years": [
+    2000,
+    2024
+  ],
+  "u5mr_arr": [
+    4.5,
+    4.0,
+    5.0
+  ],
+  "u5mr_arr_early": 5.6,
+  "u5mr_arr_late": 3.4,
+  "u5mr_slowdown_p": 3.586238518934682e-07,
+  "imr_arr": [
+    4.0,
+    3.5,
+    4.4
+  ],
+  "imr_arr_early": 4.9,
+  "imr_arr_late": 3.0,
+  "imr_slowdown_p": 1.0263693909027786e-05,
+  "nmr_arr": [
+    3.9,
+    3.7,
+    4.2
+  ],
+  "nmr_arr_early": 4.2,
+  "nmr_arr_late": 3.7,
+  "nmr_slowdown_p": 0.26184436332534033,
+  "u5mr_sdg": {
+    "Indicator": "Under-5",
+    "Latest (2024)": 30.5,
+    "SDG target": 25,
+    "Projected 2030 (95% CI)": "24.9 (24.0-25.8)",
+    "Current ARR %": 3.4,
+    "Required ARR %": 3.3,
+    "Assessment": "Uncertain"
+  },
+  "nmr_sdg": {
+    "Indicator": "Neonatal",
+    "Latest (2024)": 17.9,
+    "SDG target": 12,
+    "Projected 2030 (95% CI)": "14.3 (13.8-14.8)",
+    "Current ARR %": 3.7,
+    "Required ARR %": 6.7,
+    "Assessment": "Off track"
+  },
+  "fe_measles": [
+    7.6,
+    -4.9,
+    21.7,
+    0.20522808723635136
+  ],
+  "fe_n": [
+    200,
+    8
+  ],
+  "ml": {
+    "Linear regression": {
+      "RMSE (log scale)": 0.627,
+      "Approx. median relative error %": 34.773
+    },
+    "Random forest": {
+      "RMSE (log scale)": 0.55,
+      "Approx. median relative error %": 23.841
+    }
+  }
+}
